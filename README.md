@@ -1,4 +1,4 @@
-# 🧹 E-Commerce Sales Data Cleaning Project
+# E-Commerce Sales Data Cleaning Project
 
 ## Project Overview
 This project involves cleaning a real-world messy e-commerce sales dataset sourced from Kaggle.
@@ -60,8 +60,8 @@ a clean, analysis-ready dataset.
 | Rows | 103 | 102 |
 | Null values | 32+ | 0 |
 | Invalid entries | 10+ | 0 |
-| Consistent formatting | ❌ | ✅ |
-| Accurate Totals | ❌ | ✅ |
+| Consistent formatting | No | Yes |
+| Accurate Totals | No | Yes |
 
 ---
 
