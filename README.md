@@ -1,6 +1,6 @@
 # 🧹 E-Commerce Sales Data Cleaning Project
 
-## 📌 Project Overview
+## Project Overview
 This project involves cleaning a real-world messy e-commerce sales dataset sourced from Kaggle.
 The dataset contained multiple data quality issues including duplicates, missing values, invalid entries,
 inconsistent formatting, and incorrect calculations. The goal was to transform raw, unusable data into
@@ -8,14 +8,14 @@ a clean, analysis-ready dataset.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 - **Microsoft Excel** — final cleaned output and presentation
 - **Python (Pandas)** — data analysis and cleaning logic
 - **openpyxl** — Excel file generation with formatting
 
 ---
 
-## 📁 Files in This Repository
+## Files in This Repository
 
 | File | Description |
 |---|---|
@@ -33,7 +33,7 @@ a clean, analysis-ready dataset.
 
 ---
 
-## 🔍 Issues Found & Fixed
+## Issues Found & Fixed
 
 | # | Issue Type | Count | Action Taken |
 |---|---|---|---|
@@ -53,7 +53,7 @@ a clean, analysis-ready dataset.
 
 ---
 
-## 📊 Dataset Before vs After
+## Dataset Before vs After
 
 | Metric | Before | After |
 |---|---|---|
@@ -65,7 +65,7 @@ a clean, analysis-ready dataset.
 
 ---
 
-## 💡 Key Insights (Post-Cleaning)
+## Key Insights (Post-Cleaning)
 - **Books** is the top product category by order volume
 - **PayPal** is the most commonly used payment method
 - All Total values are now accurately calculated as `Quantity × Price`
@@ -73,7 +73,7 @@ a clean, analysis-ready dataset.
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Download `Ecommerce_Data_Cleaning_Project.xlsx`
 2. Open in Microsoft Excel
 3. Review `Raw_Data` tab to see original issues
@@ -82,6 +82,6 @@ a clean, analysis-ready dataset.
 
 ---
 
-## 👤 Author
+## Author
 **[Swayam Gupta]**  
 Aspiring Data Analyst | [https://www.linkedin.com/in/swayam-gupta-2a7174251/] | [swayamg27@gmail.com]
